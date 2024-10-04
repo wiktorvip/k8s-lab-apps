@@ -1,0 +1,5 @@
+replicaCount: 2
+appwebcolor:
+  name: app-webcolor2
+  container:
+    image: ghcr.io/wiktorvip/app-webcolor:v2
