@@ -1,11 +1,11 @@
 apiVersion: v2
-name: app-webcolor
-description: A Helm chart for app-webcolor
+name: sealed-secrets
+description: A Helm chart for sealed-secrets
 #type: application
 version: 1.0.0
 #appVersion: v1.0.0
 
 dependencies:
-- name: app-webcolor
+- name: sealed-secrets
   repository: https://bitnami-labs.github.io/sealed-secrets
   version: 2.15.4
