@@ -7,5 +7,6 @@ version: 1.0.0
 
 dependencies:
 - name: app-webcolor
+  alias: app-webcolor
   repository: https://wiktorvip.github.io/app-webcolor
   version: 0.1.5

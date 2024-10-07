@@ -1,5 +1,6 @@
-replicaCount: 5
-appwebcolor:
-  name: app-webcolor3
-  container:
-    image: ghcr.io/wiktorvip/app-webcolor:v3
+app-webcolor:
+  replicaCount: 3
+  appwebcolor:
+    name: app-webcolor
+    container:
+      image: ghcr.io/wiktorvip/app-webcolor:v3
