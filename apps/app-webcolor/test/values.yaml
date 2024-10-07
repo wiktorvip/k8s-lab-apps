@@ -1,4 +1,4 @@
-replicaCount: 3
+replicaCount: 5
 appwebcolor:
   name: app-webcolor3
   container:
