@@ -3,9 +3,9 @@ name: app-webcolor
 description: A Helm chart for app-webcolor
 #type: application
 version: 1.0.0
-appVersion: v1.0.0
+#appVersion: v1.0.0
 
 dependencies:
 - name: app-webcolor
-  repository: https://wiktorvip.github.io/app-webcolor
-  version: 0.1.5
+  repository: https://bitnami-labs.github.io/sealed-secrets
+  version: 2.15.4
